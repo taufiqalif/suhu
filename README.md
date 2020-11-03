@@ -1,0 +1,1 @@
+mengukur suhu menggunakan python
